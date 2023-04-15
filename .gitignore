@@ -4,5 +4,4 @@
 .*
 **/cmake*/
 **/build/
-skiplist/test.cpp
 skiplist/template.cpp
